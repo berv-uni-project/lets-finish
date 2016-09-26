@@ -1,0 +1,8 @@
+5 | 2 | 3 | 1 | 4 .
+
+Keterangan :
+1. Bebas Penjara
+2. Bebas Pajak
+3. Masuk Penjara
+4. Mati Lampu
+5. Perlindungan

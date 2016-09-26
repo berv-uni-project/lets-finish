@@ -1,0 +1,12 @@
+A | 1000 | 0 | 0 | 0 | 0 | 0 | N | N | N
+B | 1000 | 0 | 0 | 0 | 0 | 0 | N | N | N
+C | 1000 | 0 | 0 | 0 | 0 | 0 | N | N | N
+D | 1000 | 0 | 0 | 0 | 0 | 0 | N | N | N .
+
+Format File :
+id | Uang | Chance1 | Chance2 | Chance3 | Chance4 | injail | Roled Dice | Buy | Upgrade
+
+Chance1 : free me
+Chance2 : free tax
+Chance3 : turn off
+Chance4 : protect

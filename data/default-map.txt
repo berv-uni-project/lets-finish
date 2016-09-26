@@ -1,0 +1,35 @@
+Start | -999 | N | N | 0 | H | F | - | A | B | C | D
+Beijing | 120 | N | K | 0 | H | F | - | N | N | N | N
+Bonus | -999 | N | N | 0 | H | F | - | N | N | N | N
+Jakarta | 100 | N | K | 0 | H | F | - | N | N | N | N
+Ancol | 160 | N | P | 0 | H | F | - | N | N | N | N
+Taipei | 90 | N | K | 0 | H | F | - | N | N | N | N
+New_Delhi | 100 | N | K | 0 | H | F | - | N | N | N | N
+Seoul | 150 | N | K | 0 | H | F | - | N | N | N | N
+Deserted_Island | -999 | N | N | 0 | H | F | - | N | N | N | N
+Hawai | 200 | N | P | 0 | H | F | - | N | N | N | N
+Tokyo | 200 | N | K | 0 | H | F | - | N | N | N | N
+Sydney | 200 | N | K | 0 | H | F | - | N | N | N | N
+Chance | -999 | N | N | 0 | H | F | - | N | N | N | N
+Singapura | 100 | N | K | 0 | H | F | - | N | N | N | N
+Senggigi | 160 | N | P | 0 | H | F | - | N | N | N | N
+Sao_Paolo | 200 | N | K | 0 | H | F | - | N | N | N | N
+World_Cup | -999 | N | N | 0 | H | F | - | N | N | N | N
+Denmark | 200 | N | K | 0 | H | F | - | N | N | N | N
+Bintan | 150 | N | P | 0 | H | F | - | N | N | N | N
+Berlin | 220 | N | K | 0 | H | F | - | N | N | N | N
+Chance | -999 | N | N | 0 | H | F | - | N | N | N | N
+Geneva | 150 | N | K | 0 | H | F | - | N | N | N | N
+Moscow | 150 | N | K | 0 | H | F | - | N | N | N | N
+Rome | 200 | N | K | 0 | H | F | - | N | N | N | N
+World_Travel | -999 | N | N | 0 | H | F | - | N | N | N | N
+Kuta | 200 | N | K | 0 | H | F | - | N | N | N | N
+London | 210 | N | K | 0 | H | F | - | N | N | N | N
+Paris | 190 | N | K | 0 | H | F | - | N | N | N | N
+Chance | -999 | N | N | 0 | H | F | - | N | N | N | N
+New_York | 300 | N | K | 0 | H | F | - | N | N | N | N
+Tax | -999 | N | N | 0 | H | F | - | N | N | N | N
+Bangkok | 200 | N | K | 0 | H | F | - | N | N | N | N .
+
+Format File :
+Nama | Harga | Pemilik | Jenis | Level | Offered | WorldCup | Penempat | Penempat | Penempat | Penempat
