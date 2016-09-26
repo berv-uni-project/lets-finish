@@ -1,2 +1,2 @@
-# let-gets-wealthy
+# Lets Finish
 Monopoly Game Command Line Based
