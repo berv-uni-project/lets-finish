@@ -1,5 +1,7 @@
 # LET'S FINISH THIS
 
+![Travis CI](https://www.travis-ci.org/berviantoleo/lets-finish.svg?branch=master)
+
 ## Win this if you can!
 
 This program has four directory.
