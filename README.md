@@ -40,6 +40,11 @@ Version 1.0 VERSION
 
 Let's Finish This
 
-Copyright 2015
+Copyright 2015 - 2017
 
 ================================================
+
+# Creator
+
+1. Bervianto Leo Pratama - 13514047 - [Profile](https://github.com/berviantoleo)
+2. M. Az-zahid Adhitya Silparensi - 13514095 - [Profile](https://github.com/Azzahid)
