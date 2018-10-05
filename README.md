@@ -1,5 +1,7 @@
 # LET'S FINISH THIS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ed22b44232a46f8a668279198c9c31f)](https://app.codacy.com/app/berviantoleo/lets-finish?utm_source=github.com&utm_medium=referral&utm_content=berv-uni-project/lets-finish&utm_campaign=Badge_Grade_Settings)
+
 ![Travis CI](https://www.travis-ci.org/berviantoleo/lets-finish.svg?branch=master)
 
 ## Win this if you can!
