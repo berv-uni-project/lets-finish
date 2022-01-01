@@ -1,7 +1,8 @@
 # LET'S FINISH THIS
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ed22b44232a46f8a668279198c9c31f)](https://app.codacy.com/app/berviantoleo/lets-finish?utm_source=github.com&utm_medium=referral&utm_content=berv-uni-project/lets-finish&utm_campaign=Badge_Grade_Settings)
-[![Build Status](https://travis-ci.org/berv-uni-project/lets-finish.svg?branch=master)](https://travis-ci.org/berv-uni-project/lets-finish)
+
+[![CMake](https://github.com/berv-uni-project/lets-finish/actions/workflows/cmake.yml/badge.svg)](https://github.com/berv-uni-project/lets-finish/actions/workflows/cmake.yml)
 
 ## Win this if you can!
 
