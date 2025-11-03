@@ -18,4 +18,6 @@
 #define Info(P) (P)->info
 #define Next(P) (P)->next
 
+extern char filename[30];
+
 #endif

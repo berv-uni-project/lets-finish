@@ -1,9 +1,9 @@
+#include "../global/global.h"
 #include "mesinkarakter.h"
 
 //definisi states
 char CC;
 boolean EOP;
-char filename[30];
 
 static FILE *pita;
 static int retval;

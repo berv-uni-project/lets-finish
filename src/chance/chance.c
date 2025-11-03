@@ -1,9 +1,8 @@
 /* Nama File : chance.c */
 /* File Body dari header chance.h*/
 
+#include "../global/global.h"
 #include "chance.h"
-
-char filename[30];
 
 /** Prosedur dan Fungsi Chance **/
 /* Prosedur dan Fungsi Primitif */

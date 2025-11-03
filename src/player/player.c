@@ -1,9 +1,8 @@
 /* Nama File : player.c */
 /* Body dari file header board.h */
 
+#include "../global/global.h"
 #include "player.h"
-
-char filename[30];
 
 /** Fungsi dan Prosedur Mengatur Player **/
 
